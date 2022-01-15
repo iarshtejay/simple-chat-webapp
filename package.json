@@ -1,0 +1,23 @@
+{
+  "name": "simple-chat-webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iarshtejay/simple-chat-webapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iarshtejay/simple-chat-webapp/issues"
+  },
+  "homepage": "https://github.com/iarshtejay/simple-chat-webapp#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
